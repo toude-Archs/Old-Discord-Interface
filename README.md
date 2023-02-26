@@ -57,6 +57,7 @@ Now go to Theming and paste This :
  --jumboEmojiSize: 2rem; /* Old - 2rem | New - 3rem */
 } 
 ```
+and Restart
 
 Now Your Discord Client Is Client of 2016 
 
