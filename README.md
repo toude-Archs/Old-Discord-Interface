@@ -1,8 +1,14 @@
 # Old-Discord-Interface
 A github for get the OLD discord interface !
 
+# Pictures
 
-#Requirements
+![image](https://github.com/toude-Archs/Old-Discord-Interface/blob/main/Pictures/image.png?raw=true)
+![image](https://github.com/toude-Archs/Old-Discord-Interface/blob/main/Pictures/image2.png?raw=true)
+
+
+
+# Requirements
 
 openasar and my css
 
